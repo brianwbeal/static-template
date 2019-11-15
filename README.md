@@ -14,5 +14,5 @@
 
 ## Notes
 
-[live demo](Brianwbeal.github.io/static-template)
+[live demo](https://brianwbeal.github.io/static-template/)
 
