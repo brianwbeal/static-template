@@ -361,25 +361,12 @@ label {
 .button.outline:hover {
   background-color: #bdbdbd;
 }
-.cards {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-@media (min-width: 768px) {
-  .cards {
-    flex-direction: row;
-  }
-}
 .card {
   padding: 16px;
   border: 1px solid #bdbdbd;
   border-radius: 8px;
 }
 .card__image {
-  background-color: #bdbdbd;
   border-radius: 8px;
   width: 100%;
   height: 150px;
